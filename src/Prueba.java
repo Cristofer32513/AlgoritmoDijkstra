@@ -1,4 +1,9 @@
-
+/*
+ * REFERENCIAS
+ * mas_fernandez. (2013). Algoritmo Bellman-Ford Java.
+ * 2018, de masfernandez.com
+ * Sitio web: https://masfernandez.com/2013/04/16/algoritmo-bellman-ford-java/
+ */
 public class Prueba {
 
 	public static void main(String[] args) {
